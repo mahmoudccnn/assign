@@ -66,6 +66,13 @@ body{
     text-align: center;
     color: silver;
 }
+
+
+body{
+  overflow-x: hidden; 
+}
+
+
 .dd{
     margin: auto;
     text-align: center;
